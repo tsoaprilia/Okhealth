@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">Okhealth</string>
+    <string name="move_activity">Ayo Jaga Diri </string>
+    <string name="move_activity_data">Trick Cuci Tangan</string>
+    <string name="move_with_data_activity">Cara Memakai Masker</string>
+    <string name="move_with_data">Pola Hidup Sehat</string>
+    <string name="move_with_activity">Cara Melepas Masker</string>
+    <string name="pesan">Just For You</string>
+    <string name="hanya">“Waktu dan kesehatan adalah dua aset berharga yang tidak kita kenali dan hargai sampai mereka telah habis.” \n\n – Denis Waitley</string>
+
+    <string name="article_subtitle">1.	 Olahraga Bersama Rekan Kerja/Teman dan  Berjemur Saat Jam Istirahat
+\n\n2.	Hindari Menggunakan Alat Pribadi Secara Bersama-sama
+\n\n3.	Atur Jarak Tempat Duduk
+\n\n4.	Menjaga Jarak di Lift dan Tangga
+\n\n5.	Selalu Menggunakan Masker saat Bekerja/Belajar
+\n\n6.	Pastikan Bahwa Area Meja Kerja Selalu  Bersih
+\n\n7.	Terapkan protokol Kesehatan
+</string>
+    <string name="article_title">Tips Menjaga Diri dikantor dan disekolah</string>
+    <string name="article_titl">Tips Menjaga Diri dirumah</string>
+    <string name="article_subtit">1.	Olahraga rutin meski di rumah
+\n\n2.	Mengonsumsi makanan sehat
+\n\n3.	Meluangkan waktu untuk me time
+\n\n4.	Selalu menjaga kebersihan
+\n\n5.	Terapkan protokol kesehatan
+</string>
+    <string name="article_subtitle2">1.	Kebersihan tangan jadi yang utama
+\n\n2.	Hindari menyentuh bagian wajah
+\n\n3.	Menerapkan etika ketika batuk dan bersin.
+\n\n4.	Menggunkaan masker
+\n\n5.	Menjaga jarak
+\n\n6.	Bisa isolasi mandiri
+\n\n7.	Jaga Kesehatan, minum multivitamin
+\n\n8.	Ketika kembali ke rumah setelah kita melakukan aktivitas di luar, jangan bersentuhan dengan anggota keluarga sebelum kita mandi dan mengganti pakaian
+
+</string>
+    <string name="article_title2">Protokol Kesehatan Yang Harus didterapkan</string>
+    <string name="article_subtitle3">1.	Basahi tangan dengan air mengalir yang bersih dan hangat
+\n\n2.	Pakai sejumlah kecil sabun
+\n\n3.	Gosok telapak tangan bersamaan, jauh dari air
+\n\n4.	Gosok jemari dan jempol dan kulit di sela-sela
+\n\n5.	Bersihkan telapak tangan Anda dengan kuku Anda
+\n\n6.	Gosok bagian belakang setiap tangan
+\n\n7.	Cuci dengan air bersih mengalir
+\n\n8.	Keringkan dengan handuk/tisu  bersih
+
+</string>
+    <string name="article_title3">Langkah Mencuci Tangan</string>
+
+    <string name="article_subtitle4">1.	Pastikan ukuran masker hidung cocok dengan wajah Anda, tidak kebesaran ataupun kekecilan.
+\n\n2.	Mencuci tangan dengan sabun dan air mengalir atau hand sanitizer terlebih dahulu sebelum memakai masker.
+\n\n3.	Selanjutnya, cara pakai masker yang tepat adalah memakai masker dengan sisi luar masker berwarna hijau atau biru, sedangkan bagian dalam masker yang menempel langsung dengan area mulut dan hidung berwarna putih. Kemudian, pastikan sisi atas masker yang ditandai dengan adanya garis kawat hidung.
+\n\n4.	Untuk jenis masker karet, Anda hanya perlu mengaitkan tali karet di belakang kedua telinga.
+\n\n5.	Sedangkan, bagi yang memakai masker tali, posisikan garis kawat di atas hidung, lalu ikat kedua sisi tali pada bagian atas kepala. Jika masker sudah menggantung, tarik masker ke bawah untuk bisa menutup mulut hingga dagu. Selanjutnya, ikat tali bagian bawahnya di tengkuk atau belakang leher Anda.
+\n\n6.	Setelah masker sudah terpasang aman di wajah, cubit atau cocokkan bagian kawatnya untuk mengikuti lekuk hidung Anda agar masker lebih tertutup rapat.
+\n\n7.	Apabila masker sudah terpasang dengan benar, hindari menyentuh masker. Jika ingin menyentuh masker, pastikan untuk mencuci tangan terlebih dahulu.
+
+
+</string>
+    <string name="article_title4">Langkah Menggunakan Masker</string>
+
+
+    <string name="article_subtitle5">1.	Minum Air Putih yang Banyak.
+\n\n2.	Istirahat yang Cukup.
+\n\n3.	Teratur Dalam Berolahraga.
+\n\n4.	Mengkonsumsi makanan yang bergizi.
+\n\n5.	Hindari Rokok dan Alkohol
+
+
+
+</string>
+    <string name="article_title5">Pola Hidup Sehat</string>
+
+    <string name="article_subtitle6">1.	Sebelum melepas masker, cuci tangan Anda terlebih dahulu menggunakan sabun dan air mengalir atau hand sanitizer.
+\n\n2.	Ketika melepas masker, hindari menyentuh bagian depan masker. Mengapa? Pasalnya bagian tersebut penuh dengan kuman yang menempel dari luar. Jadi, sebaiknya hanya sentuh bagian tali atau karet pengaitnya.
+\n\n3.	Untuk melepas masker karet, pegang kedua karet yang menempel di kedua telinga. Lepaskan masker dari telinga.
+\n\n4.	Sementara, untuk melepas masker tali, buka tali bagian bawah, lalu lepaskan tali bagian atas.
+\n\n5.	Buang masker ke tempat sampah. Lalu, kembali cuci tangan atau gunakan hand sanitizer guna membersihkannya dari kuman yang menempel.
+
+
+</string>
+    <string name="article_title6">Langkah Melepaskan Masker</string>
+</resources>
